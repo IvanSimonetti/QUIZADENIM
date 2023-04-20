@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  display: grid;
+}
+
+#divNav{
+  text-align: center;
+  margin-left: 0;
+}
+
+.tituloUno{
+  font-size: 30px;
+  padding-left: 30px;
+  margin-right: 0;
+  width: 100px;
+}
+
+.tituloDos{
+  text-align: center;
+  font-size: 25px;
+}
+
+nav{
+  height: 15%;
+  width: 100%;
+}
