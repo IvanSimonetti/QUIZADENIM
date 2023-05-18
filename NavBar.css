@@ -1,0 +1,15 @@
+.NavBar{
+    text-align: left;
+}
+
+#divA{
+    justify-content: space-evenly;
+}
+
+.Nav{
+    width: 100%;
+}
+
+a{
+    color: gray;
+}
